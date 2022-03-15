@@ -17,7 +17,6 @@ public class NewTest {
 	  System.out.println("I am test case ");
 	  System.out.println("I am test case ");
 	  System.out.println("I am test case ");
-	  
   }
   @BeforeMethod
   public void beforeMethod() {
@@ -27,6 +26,9 @@ public class NewTest {
   @AfterMethod
   public void afterMethod() {
 	  System.out.println("I am after method ");
+	  System.out.println("I am after method ");
+	  System.out.println("I am after method ");
+	  
   }
 
   @BeforeClass
